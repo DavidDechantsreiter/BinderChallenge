@@ -1,15 +1,5 @@
 # BinderChallenge
 
-
-## Step 1: Accounts, access and VPN
-1.  Accreditation and RCP access come from the lab admin (Marie for MLBIO): accreditation to the unit, RCP project, credits. Check on the jump host later with id: you need groups like MLBIO-StaffU, rcp-runai-mlbio_AppGrpU, mlbioscratch_AppGrpU.
-2.  Microsoft Authenticator: activate Entra ID strong authentication for your EPFL account (EPFL's activation page; reachable from campus or VPN).
-3.  Cisco Secure Client [Mac]: install it, connect to vpn.epfl.ch.
-    ◦ Username: dechants@epfl.ch (GASPAR username, not your email address)
-    ◦ Password: GASPAR password, then the 6-digit Authenticator code
-4.  Everything below needs the VPN connected when you're off campus.
-
-
 Commands are for Apple Silicon Macs; Windows and Linux need different kubectl and runai downloads.
 ## Step 1: Access.
 - Get your GASPAR username from IS-Academia. 
